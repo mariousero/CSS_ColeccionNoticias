@@ -1,7 +1,8 @@
 body{
-    margin-left: 70px;
-    margin-top: 50px;
-    background-color: #e1a4f5;
+    padding: 40px;
+    background: #eaafc8;
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);
+    background: linear-gradient(to right, #eaafc8, #654ea3);
 }
 
 article{
