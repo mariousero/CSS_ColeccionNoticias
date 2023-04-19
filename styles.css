@@ -1,13 +1,11 @@
 body{
-    display: flex;
-    align-items: flex-start;
     margin-left: 70px;
     margin-top: 50px;
     background-color: #e1a4f5;
 }
 
 article{
-    display: inline-block;
+    float: left;
     background-color: #fff;
     border-radius: 15px;
     margin: 10px;
